@@ -24,7 +24,10 @@ What is this dataset about?​
   What are the data fields and types in this dataset?
   
   The types of data present in this dataset are integers, floats, strings, and datetime data points.
-  
+
+ 
 2. Your team's investigative questions:​
    
    We are very interested in looking into two key points for this specific data set. The first point of interest is to understand which investment focus received the most money from all the types explicitly mentioned. The second point of interest would be to see which organizations received the most allocated money from the ARPA program, and how much of that money was spent versus how much was allocated.
+
+#### To get the full visualization, kindly open in colab or see the pdf version of the code.
